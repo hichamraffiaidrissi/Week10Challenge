@@ -46,12 +46,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 ## Screenshots:
-### Figure 1. Command line application
-![](./LogoMaker/images/svg-logo-maker.png) 
-### Figure 2. Jest Testing "npm test"
-![](./images/jest-test.png)
-### Figure 3. Generated "logo.svg" file
+# Generated "logo.svg" file
 ![](./images/generated-logo.svg.png)
+# running node index.js
+![](./images/node_index.png)
+# User Questions for the shapes
+![](./images/User_questions.png)
+
 
 
 
